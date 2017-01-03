@@ -25,13 +25,13 @@
                                 <rect key="frame" x="0.0" y="20" width="375" height="44"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                 <items>
-                                    <navigationItem title=" Nav Bar " id="UaY-3f-MIQ">
-                                        <barButtonItem key="leftBarButtonItem" systemItem="camera" id="M2t-Y2-uZ9">
+                                    <navigationItem title=" Egg Timer " id="UaY-3f-MIQ">
+                                        <barButtonItem key="leftBarButtonItem" systemItem="pause" id="M2t-Y2-uZ9">
                                             <connections>
                                                 <action selector="cameraPressed:" destination="BYZ-38-t0r" id="EsZ-ds-lf7"/>
                                             </connections>
                                         </barButtonItem>
-                                        <barButtonItem key="rightBarButtonItem" title="Hi!" id="9GT-I5-9pE"/>
+                                        <barButtonItem key="rightBarButtonItem" systemItem="play" id="9GT-I5-9pE"/>
                                     </navigationItem>
                                 </items>
                             </navigationBar>
@@ -39,7 +39,11 @@
                                 <rect key="frame" x="0.0" y="623" width="375" height="44"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                 <items>
-                                    <barButtonItem systemItem="reply" id="GPI-oF-qHs"/>
+                                    <barButtonItem systemItem="reply" id="GPI-oF-qHs">
+                                        <connections>
+                                            <action selector="minusTen:" destination="BYZ-38-t0r" id="uic-Uv-78N"/>
+                                        </connections>
+                                    </barButtonItem>
                                     <barButtonItem style="plain" systemItem="flexibleSpace" id="7co-HY-21q"/>
                                     <barButtonItem systemItem="compose" id="dE5-qB-rY1"/>
                                     <barButtonItem style="plain" systemItem="flexibleSpace" id="n6g-jO-MBh"/>
@@ -52,6 +56,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="-310" y="-27"/>
         </scene>
     </scenes>
 </document>
