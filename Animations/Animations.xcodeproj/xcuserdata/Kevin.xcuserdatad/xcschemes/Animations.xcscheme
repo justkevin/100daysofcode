@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0A3DF73B1E1C375800446723"
-               BuildableName = "Timer.app"
-               BlueprintName = "Timer"
-               ReferencedContainer = "container:Timer.xcodeproj">
+               BlueprintIdentifier = "0A3DF7771E1D7A0700446723"
+               BuildableName = "Animations.app"
+               BlueprintName = "Animations"
+               ReferencedContainer = "container:Animations.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0A3DF73B1E1C375800446723"
-            BuildableName = "Timer.app"
-            BlueprintName = "Timer"
-            ReferencedContainer = "container:Timer.xcodeproj">
+            BlueprintIdentifier = "0A3DF7771E1D7A0700446723"
+            BuildableName = "Animations.app"
+            BlueprintName = "Animations"
+            ReferencedContainer = "container:Animations.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0A3DF73B1E1C375800446723"
-            BuildableName = "Timer.app"
-            BlueprintName = "Timer"
-            ReferencedContainer = "container:Timer.xcodeproj">
+            BlueprintIdentifier = "0A3DF7771E1D7A0700446723"
+            BuildableName = "Animations.app"
+            BlueprintName = "Animations"
+            ReferencedContainer = "container:Animations.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0A3DF73B1E1C375800446723"
-            BuildableName = "Timer.app"
-            BlueprintName = "Timer"
-            ReferencedContainer = "container:Timer.xcodeproj">
+            BlueprintIdentifier = "0A3DF7771E1D7A0700446723"
+            BuildableName = "Animations.app"
+            BlueprintName = "Animations"
+            ReferencedContainer = "container:Animations.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

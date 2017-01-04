@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Timer
+//  Animations
 //
-//  Created by Kevin on 03/01/2017.
+//  Created by Kevin on 04/01/2017.
 //  Copyright © 2017 kevin. All rights reserved.
 //
 

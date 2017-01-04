@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Timer.xcscheme</key>
+		<key>Animations.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0A3DF73B1E1C375800446723</key>
+		<key>0A3DF7771E1D7A0700446723</key>
 		<dict>
 			<key>primary</key>
 			<true/>
