@@ -8,11 +8,15 @@
 
 import UIKit
 
+
+
 class ViewController: UIViewController {
 
     @IBAction func ButtonPressed(_ sender: Any) {
         
-        print("ButtonPressed")
+        sender.setImage(UIImage(named: "nought.png") , for: [])
+        
+        //print("ButtonPressed")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
