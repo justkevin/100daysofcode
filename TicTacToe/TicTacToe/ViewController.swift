@@ -12,7 +12,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    // 1 is noughts, 2 is crosses
+    // ////1 is noughts, 2 is crosses
     
     var activeGame = true
     
